@@ -1,6 +1,6 @@
 {
 	"ip":"MiniIL.aternos.me",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"port": "13624",
+	"name": "Member",
+	"auto-night-skip":"false"
 }
